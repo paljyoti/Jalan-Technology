@@ -1,2 +1,2 @@
 # Jalan-Technology
-Alarm clock
+Shift array and Set Alarm clock
